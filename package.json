@@ -1,20 +1,10 @@
 {
-  "dependencies": {
-    "net": "^1.0.2"
-  },
-  "name": "net",
-  "version": "1.0.0",
-  "main": "client.js",
   "devDependencies": {
-    "eslint": "^8.2.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.25.3"
+    "cz-conventional-changelog": "^3.3.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }

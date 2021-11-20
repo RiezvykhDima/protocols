@@ -1,8 +1,7 @@
 const net = require('net');
 const port = 3036;
 const server = net.createServer((connection) => {
-  console.log('client connected');
-
+  console.log('client connected');ssh-keygen -o
   connection.on('end', () => {
     console.log('client disconnected');
   });
