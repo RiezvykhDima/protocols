@@ -1,5 +1,3 @@
-#NET
+What you need to build your own server with HTTP protocol
 ---
-#UDP
----
-#HTTP# protocols
+* ssh key
