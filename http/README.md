@@ -1,5 +1,0 @@
-#NET
----
-#UDP
----
-#HTTP# protocols
